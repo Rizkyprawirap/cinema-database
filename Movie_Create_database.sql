@@ -4,8 +4,6 @@ create database BakMovie
 
 use BakMovie
 
---rizky prawira putra - 2301924851
-
 create table [User](
 	userID varchar(6) NOT NULL PRIMARY KEY,
 	 nickname varchar(255) NOT NULL,
